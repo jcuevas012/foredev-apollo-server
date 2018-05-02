@@ -4,7 +4,7 @@
 
 this is a small project using apollo-sever and graphql-tools 
 
-#Usage
+# Usage
 
 ## Runing with Docker
 
